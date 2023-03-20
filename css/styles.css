@@ -1,0 +1,149 @@
+body{
+    background-color: #E8D5C4;
+    margin: 0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+    display: inline-block;
+    width: 100%;
+    position:absolute;
+    text-align: center;
+}
+
+.top{
+    background-color: #5ebcde ;
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    padding-top: 20px;
+}
+
+h2{
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Ubuntu', sans-serif ;
+    font-size: 1.875rem;
+    color: rgb(55, 43, 43);
+    margin-left: 5px;
+    position: relative;
+    left: 1px;
+    
+}
+
+h1{
+    margin: 0px;
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.75rem;
+    position: relative;
+}
+
+h3{
+    color: #11999E;
+    text-align: left;
+}
+a{
+    color: #11999E;
+}
+hr {
+    background-color: #FFF1DC;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 3%;
+    margin: 100px auto;
+}
+.samayank{
+    margin: 20px 0px;
+    height: 200px;
+    width: 200px;
+}
+
+.middle{
+    background-color: #FFF1DC;
+    padding: 0px;
+    width: 100%;
+}
+.bottom{
+    background-color: #E8D5C4;
+    padding: 0px;
+    height: 85px;
+    width: 100%;
+    margin: 0px;
+}
+
+.pro{
+    
+    display: inline-block;
+}
+intro{
+    display: inline-block;
+}
+
+.mountain{
+    position: static;
+    right: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 190px;
+    left: 390px;
+}
+.top-cloud{
+    position: absolute;
+    top: 160px;
+    left: 670px;
+    bottom: 10px;
+}
+.mail{
+    margin-top: 15px;
+    margin-right: 10px;
+    height: 30px;
+    width: 30px;
+}
+.linkedin{
+    margin-top: 20px;
+    margin-right: 10px;
+    height: 30px;
+    width: 30px;
+}
+.twitter{
+    margin-top: 20px;
+    margin-right: 10px;
+    height: 30px;
+    width: 30px;
+}
+.skill-row{
+    width: 50%;
+    padding-bottom: 10px;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.python{
+    height: 70px;
+    width: 70px;
+    float: left;
+    margin-right: 30px;
+}
+.java{
+    height: 70px;
+    width: 70px;
+    float: right;
+    margin-right: 30px;
+}
+.skills{
+    padding: 10px;
+}
+.profile{
+    padding: 10px;
+}
+.intro{
+    margin: 0 auto;
+    width: 30%;
+}
+#intro{
+    margin: 50px auto;
+}
